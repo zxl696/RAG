@@ -1,0 +1,2 @@
+# RAG
+在github原有的rag项目上添加自己微调的embedding模型以及添加微调的vl模型
